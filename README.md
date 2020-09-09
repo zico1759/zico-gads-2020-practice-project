@@ -1,1 +1,1 @@
-# zico-gads-2020-practice-project
+# zico-gads-2020-project-submission
